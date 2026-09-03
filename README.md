@@ -1,8 +1,8 @@
 # TazikDecompiler
 
-**pretty useless and one time maybe will be useful** if you want to get `.cs` files from C# compiled `.dll` files. (expect obfuscated one's because you will get same classes but code will be messy)
+**pretty useless and one time maybe will be usefull** if you want to get `.cs` files from C# compiled `.dll` files. (expect obfuscated one's because you will get same classes but code will be messy)
 
-> No magic, just [ICSharpCode.Decompiler](https://github.com/icsharpcode/ILSpy) doing the job.
+> No magic, just [ICSharpCode.Decompiler](https://github.com/icsharpcode/ILSpy) doing the job i just did it simplier for a user
 
 ## Usage
 
@@ -12,5 +12,5 @@
 
 ## Notes
 
-- Obfuscated DLLs will produce messy code (tested with .Net Reactor)
-- Dark theme included because light mode is pain lol
+- Obfuscated DLLs will produce messy code  
+- Dark theme included because light mode is pain
