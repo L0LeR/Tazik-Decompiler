@@ -1,6 +1,6 @@
 # TazikDecompiler
 
-**pretty useless and one time maybe will be usefull** if you want to get `.cs` files from C# compiled `.dll` files. (expect obfuscated one's because you will get same classes but code will be messy)
+**pretty useless and one time maybe will be useful** if you want to get `.cs` files from C# compiled `.dll` files. (expect obfuscated one's because you will get same classes but code will be messy)
 
 > No magic, just [ICSharpCode.Decompiler](https://github.com/icsharpcode/ILSpy) doing the job.
 
@@ -8,7 +8,7 @@
 
 - Select a `.dll` file  
 - Press **Reverse**  
-- Get your `.cs` files in a `decompiled` folder
+- Get your `.cs` files in a `decompiled` folder that creates in same folder where you locate it (default will be created in same folder where you selected .dll file)
 
 ## Notes
 
