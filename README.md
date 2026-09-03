@@ -14,3 +14,7 @@
 
 - Obfuscated DLLs will produce messy code  
 - Dark theme included because light mode is pain
+
+## Open Code
+
+This project is open source. Feel free to fork it, break it, fix it, or make it worse. Pull requests are welcome if you actually improve something!
